@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Routine.Logic/1.0.0": {
+        "dependencies": {
+          "Routine.Common": "1.0.0"
+        },
+        "runtime": {
+          "Routine.Logic.dll": {}
+        }
+      },
+      "Routine.Common/1.0.0": {
+        "runtime": {
+          "Routine.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Routine.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Routine.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

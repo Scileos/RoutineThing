@@ -1,0 +1,8 @@
+C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.Common\bin\Debug\netcoreapp3.0\Routine.Common.deps.json
+C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.Common\bin\Debug\netcoreapp3.0\Routine.Common.dll
+C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.Common\bin\Debug\netcoreapp3.0\Routine.Common.pdb
+C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.Common\obj\Debug\netcoreapp3.0\Routine.Common.csprojAssemblyReference.cache
+C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.Common\obj\Debug\netcoreapp3.0\Routine.Common.AssemblyInfoInputs.cache
+C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.Common\obj\Debug\netcoreapp3.0\Routine.Common.AssemblyInfo.cs
+C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.Common\obj\Debug\netcoreapp3.0\Routine.Common.dll
+C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.Common\obj\Debug\netcoreapp3.0\Routine.Common.pdb

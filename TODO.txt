@@ -1,0 +1,10 @@
+TODO
+
+- Data access layer, SQL server? Maybe stub data in a file for now?
+- Getters and setters for whichever persistance strategy is used
+- Calculation logic to workout next routine
+- Call calculation logic on Getter
+- New service to pickup calculatable routines
+- UserId functionality
+- Basic front end
+- Advanced front end
