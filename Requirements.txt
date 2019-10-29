@@ -1,0 +1,51 @@
+Potential routine thing
+
+Key concepts
+- Built in volume periodisation
+- Progressive volume overload via weight/set/rep increases dependent on workout results
+- Auto regulation dependent on RPE
+
+
+Basic workflow
+
+- User is given workout
+    - Automatically Generated?
+        - Pre made workouts using volume landmarks such as MEV and MAV
+        - 4/5/6 day variants
+    - Custom inputs?
+        - Allow users to create their own workouts from either pre defined exercies or free text inputs
+        - They can define expected rep ranges for each exercise this way
+        - Potentially limit number of workouts able to store?
+- User inputs amount of reps achieved per set
+    - Number of reps based on RIR
+    - Basic input fields
+- Auto calculates next workout
+    - Follow current understanding of progressive overload
+        - If all sets fall within rep range
+            - Increase weight
+            - Increase sets
+        - Else
+            - Increase number of reps
+    - Repeat until fatigue becomes unmanageable
+        - Basic implmentation
+            - 4/5 weeks progression followed by 1 week deload
+            - Increase base volume and repeat
+        - Advanced implmentation
+            - Similar but over a longer period of time, perhaps multiple mesocycles
+            - Instead of fixed time, implement deload weak when RPE is too high on average. Or rely on user to manage their fatigue correctly
+
+
+
+Technology
+
+- App is clearly the most suitable as allows user to use during workout
+- Maybe create logic with basic web UI then port over?
+- Front end
+    - React
+    - Angular
+- Back end
+    - C# web api
+    - NodeJS web api
+- Data Persistence
+    - If web app, can use SQL database to store user workout information
+    - Think about device local storage
