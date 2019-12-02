@@ -1,8 +1,0 @@
-C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.DataAccess\bin\Debug\netcoreapp3.0\Routine.DataAccess.deps.json
-C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.DataAccess\bin\Debug\netcoreapp3.0\Routine.DataAccess.dll
-C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.DataAccess\bin\Debug\netcoreapp3.0\Routine.DataAccess.pdb
-C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.DataAccess\obj\Debug\netcoreapp3.0\Routine.DataAccess.csprojAssemblyReference.cache
-C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.DataAccess\obj\Debug\netcoreapp3.0\Routine.DataAccess.AssemblyInfoInputs.cache
-C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.DataAccess\obj\Debug\netcoreapp3.0\Routine.DataAccess.AssemblyInfo.cs
-C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.DataAccess\obj\Debug\netcoreapp3.0\Routine.DataAccess.dll
-C:\Users\jonathan.moore\Documents\RoutineThing\Source\RoutineThing\Routine.DataAccess\obj\Debug\netcoreapp3.0\Routine.DataAccess.pdb
