@@ -1,0 +1,19 @@
+{
+  "name": "routine-builder",
+  "version": "1.0.0",
+  "description": "simple routine builder following RIR principals",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scileos/RoutineThing.git"
+  },
+  "author": "Jonathan Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scileos/RoutineThing/issues"
+  },
+  "homepage": "https://github.com/Scileos/RoutineThing#readme"
+}
